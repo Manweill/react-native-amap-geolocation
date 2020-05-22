@@ -1,4 +1,4 @@
-import { start, stop, addLocationListener, Location } from ".";
+import { start, stop, addLocationListener, Location } from "./utils";
 import { EmitterSubscription } from "react-native";
 
 /**
